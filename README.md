@@ -52,8 +52,8 @@ Python, R, MATLAB, cancer systems biology, metabolic modeling, computational gen
 ## Contact
 
 - GitHub: https://github.com/Olamide025
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your preferred professional email here
+- LinkedIn: www.linkedin.com/in/olamide-animasahun
+- Email: olamideanimasahun@gmail.com
 
 <!--
 **Olamide025/Olamide025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
